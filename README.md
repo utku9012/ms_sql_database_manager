@@ -1,6 +1,6 @@
 # MS SQL Server Database Manager
 
-A modern GUI application for managing MS SQL Server databases, built with Python and CustomTkinter.
+A GUI application for managing MS SQL Server databases, built with Python and CustomTkinter.
 
 ## Features
 
@@ -10,7 +10,7 @@ A modern GUI application for managing MS SQL Server databases, built with Python
 - Insert data into tables
 - View and query data
 - Execute custom SQL queries
-- User-friendly interface with modern design
+- User-friendly interface 
 - Multi-language support (English and Turkish)
 - Theme support (Light, Dark, and System)
 
