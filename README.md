@@ -60,6 +60,8 @@ python database_gui.py
 
 ## Features in Detail
 
+- ![Sample Image](exp.png)
+
 ### Connection Management
 - Connect to existing databases
 - Create new databases
