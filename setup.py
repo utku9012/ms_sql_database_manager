@@ -21,7 +21,7 @@ setup(
             "database_gui.py",
             base=base,
             target_name="DatabaseManager.exe",
-            icon=None  # You can add an icon file here
+            icon=None 
         )
     ]
 ) 
