@@ -21,7 +21,7 @@ A GUI application for managing MS SQL Server databases, built with Python and Cu
 - MS SQL Server (Express edition is supported)
 - ODBC Driver 17 for SQL Server
 - Make sure that TCP/IP and Named Pipes are enabled in the Configuration Manager
-- SQL Server (SQLEXPRESS) service should be running.
+- SQL Server (SQLEXPRESS) service should be running
 
 
 ## Installation
@@ -83,10 +83,6 @@ python database_gui.py
 - Choose between Light, Dark, or System theme
 - Switch between English and Turkish languages
 - Settings are saved between sessions
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
