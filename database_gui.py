@@ -74,9 +74,9 @@ class DatabaseGUI:
         # Server Entry
         self.server_label = ctk.CTkLabel(self.main_frame, text="Server Name:")
         self.server_label.pack(pady=(20,5))
-        self.server_entry = ctk.CTkEntry(self.main_frame, width=300, placeholder_text="Enter server name (e.g., DESKTOP-NC4C7PD\\SQLEXPRESS)")
+        self.server_entry = ctk.CTkEntry(self.main_frame, width=300, placeholder_text="Enter server name (e.g., DESKTOP-12345\\SQLEXPRESS)")
         self.server_entry.pack(pady=(0,10))
-        self.server_entry.insert(0, "DESKTOP-NC4C7PD\\SQLEXPRESS")
+        self.server_entry.insert(0, "DESKTOP-12345\\SQLEXPRESS")
         
         # Database Entry
         self.db_label = ctk.CTkLabel(self.main_frame, text="Database Name:")
